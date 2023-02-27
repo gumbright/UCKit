@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ucuilib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gumbright/UCUILib",
+      "state" : {
+        "revision" : "329634c103d984d591f1be6203f6796e332eb9de",
+        "version" : "0.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
